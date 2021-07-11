@@ -1,0 +1,47 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(253, 102, 102);
+}
+
+div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  position: absolute;
+  top: 80%;
+  outline: none;
+}
+
+button {
+  background-color: crimson;
+  outline: none;
+  border: 2px solid rgb(225, 224, 224);
+  color: white;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.conten {
+  position: absolute;
+  top: 14%;
+  height: 40%;
+  width: 60%;
+  /* background-color: antiquewhite; */
+}
+
+table {
+  background-color: blue;
+  height: 20px;
+  width: 65%;
+  color: #fff;
+}
+
+th {
+  background-color: black;
+}
+tr {
+  background-color: aqua;
+}
